@@ -5,6 +5,8 @@ Este projeto cria uma animação de elementos flutuantes em um fundo responsivo 
 ## 📌 Tecnologias Utilizadas
 - HTML5
 - CSS3
+  
+- Tailwind
 
 ## 🚀 Como Funciona
 A animação é baseada em uma lista de elementos `<li>` que são animados através de `@keyframes` no CSS, simulando um efeito de bolhas subindo.
